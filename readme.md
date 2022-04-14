@@ -5,7 +5,3 @@ I made this application to fulfill my final semester exam assignments for iOS-ba
 # Demo
 Video
 https://drive.google.com/file/d/1aQhByhF-RSfkGcoMVoUly3uVoTvY1BVQ/view
-
-<video width="320" height="240" controls>
-  <source src="https://drive.google.com/file/d/1aQhByhF-RSfkGcoMVoUly3uVoTvY1BVQ/view" type="video/mp4">
-</video>
